@@ -5,3 +5,4 @@ Git tracks changes of files.
 pushed to GitHub.
 Creating a new branch is quick and simple.
 Strategy of managing branch.
+merging with fast forward.
